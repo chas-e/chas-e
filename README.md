@@ -13,5 +13,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my vegan 🥕 🍰 is pretty bomb. (💣 🔥).
 
-### Here ae some of my stats:
+### Here are some of my stats:
 [![Chas's Github Stats](https://github-readme-stats.vercel.app/api?username=chas-e)](https://github.com/chas-e/github-readme-stats)
