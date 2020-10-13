@@ -4,8 +4,6 @@
 
 <!-- **chas-e/chas-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [my portfolio](https://github.com/chas-e/chas-portfolio)
 - 🌱 I’m currently learning algorithms for interviews (sorts, merges, and searches)
 - 👯 I’m looking to collaborate on any projects using Javascript or Python, but open to learning other languages and technologies.
