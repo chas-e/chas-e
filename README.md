@@ -14,4 +14,8 @@
 - ⚡ Fun fact: my vegan 🥕 🍰 is pretty bomb. (💣 🔥).
 
 ### Here are some of my stats:
-[![Chas's Github Stats](https://github-readme-stats.vercel.app/api?username=chas-e)](https://github.com/chas-e/github-readme-stats)
+[![chas's github stats](https://github-readme-stats.vercel.app/api?username=chas-e&show_icons=true&count_private=true&theme=synthwave)](https://github.com/chas-e/github-readme-stats)
+[![chas's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chas-e&langs_count=10&theme=synthwave)](https://github.com/chas-e/github-readme-stats)
+
+
+
