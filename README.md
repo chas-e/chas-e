@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-***My name is Chas, welcome!***
+***My name is Chas. I am a dynamic and resourceful software engineer committed to building fast, accessible, and elegant solutions for the web and beyond. Thanks for checking out my profile!***
 
 <!-- **chas-e/chas-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
