@@ -4,8 +4,10 @@
 
 <!-- **chas-e/chas-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+#### �👨🏻‍💻  I’m an engineer at [Oneil Interactive](https://oneilinteractive.com/)
+#### 🏆 We build award-winning web applications for homebuilders
 #### 🔭  I’m currently working on a mobile application (as a side project - more to come!!)
-#### 🌱  I’m currently learning flutter for mobile development and C via Harvard's CS50 via EDX
+#### 🌱  I’m currently learning C via Harvard's CS50 via EDX
 #### 👯  I’m looking to collaborate on any projects using Javascript or Python, but open to learning other languages and technologies
 #### 🤔  I’m looking for help with finding open source projects to collaborate on
 #### 💬  Ask me about my cat Trevor 😺 or pretty much anything you are curious about, I try to be an 📖 
