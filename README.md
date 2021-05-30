@@ -4,7 +4,7 @@
 
 <!-- **chas-e/chas-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-#### �👨🏻‍💻  I’m an engineer at [Oneil Interactive](https://oneilinteractive.com/)
+#### 👨🏻‍💻  I’m an engineer at [Oneil Interactive](https://oneilinteractive.com/)
 #### 🏆 We build award-winning web applications for homebuilders
 #### 🔭  I’m currently working on a mobile application (as a side project - more to come!!)
 #### 🌱  I’m currently learning C via Harvard's CS50 via EDX
